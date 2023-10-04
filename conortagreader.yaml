@@ -10,7 +10,7 @@ wifi:
 captive_portal:
 
 dashboard_import:
-  package_import_url: https://github.com/conorokelly/conortagreader/blob/44539e548093507a5b2cdbbf6f2edc5d2eda7705/conortagreader.yaml
+  package_import_url: github://conorokelly/conortagreader/conortagreader.yaml
 
 improv_serial:
 
